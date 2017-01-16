@@ -1,6 +1,7 @@
 # Watson API
 
 Created folling the tutorial on [Codecademy](https://www.codecademy.com/learn/ibm-watson)
+
 An IBM Bluemix [account](https://console.ng.bluemix.net/registration/?target=%2Fdashboard%2Fapps "Bluemix Sign up") and a twitter account [account](https://www.twitter.com "Twitter homepage") is needed for this example to work.
 
 Enter your twitter credentials in these variables 
